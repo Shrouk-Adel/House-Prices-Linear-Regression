@@ -1,4 +1,4 @@
-# House-prices-linear-regression-selectKBest
+# House-prices-linear-regression
 📝 Project Objective:
 
 1. The aim of this project is to train a Machine Learning Model which can predict the House Sale Price using various relevant features.
